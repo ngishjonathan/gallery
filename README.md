@@ -33,7 +33,7 @@ HTML
 CSS
 Postgresql
 Link to live site
-Here is a link to the live site https://gallery-22.herokuapp.com/
+Here is a link to the live site https://ngishjonathan.herokuapp.com/
 
 # Contact Me
 contact me via email balozimwash@gmail.com.com
