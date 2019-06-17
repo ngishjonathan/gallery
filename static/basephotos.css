@@ -1,4 +1,13 @@
-h1
-{
-  color: purple;
+h1{
+  font-family: 'Stylish', sans-serif;
+  
+}
+.main-page img{
+  width: 100%;
+  -webkit-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+ 
 }
